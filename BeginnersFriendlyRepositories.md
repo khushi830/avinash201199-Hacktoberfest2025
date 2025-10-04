@@ -22,7 +22,7 @@ If you know any good repository for beginners, feel free to add it to this table
 | React | [Link](https://github.com/facebook/react) | JavaScript, Flow |
 | Vue.js | [Link](https://github.com/vuejs/vue) | JavaScript, TypeScript |
 | Axios | [Link](https://github.com/axios/axios) | JavaScript, TypeScript |
-
+| Best Websites for Programmers | [Link](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) | Various |
 
 ---
 
